@@ -6,10 +6,10 @@ This repository contains the files necessary to implement the Simple Congestion 
 
 To incorporate CoCoA, please copy the following files into the "er-coap" directory within "/Contiki/apps"
 
-er-coap-transactions.c
-er-coap-transactions.h
-Makefie.er-coap
-er-cocoa.c
+- er-coap-transactions.c
+- er-coap-transactions.h
+- Makefie.er-coap
+- er-cocoa.c
 
 This set of files contains the main cocoa file (er-cocoa.c) and some modified Er-CoAP files.
 
