@@ -1,6 +1,6 @@
 # er-cocoa
 
-This repository contains the files necessary to implement the CoAP Simple Congestion Control/Advanced (CoCoA) for Erbium CoAP, which is part of the Contiki OS toolset. This version of CoCoA implements version -02 of the draf (draft-bormann-core-cocoa-04).
+This repository contains the files necessary to implement the CoAP Simple Congestion Control/Advanced (CoCoA) for Erbium CoAP, which is part of the Contiki OS toolset. This version of CoCoA implements version -02 of the draft (draft-bormann-core-cocoa-02).
 
 # Installation
 
