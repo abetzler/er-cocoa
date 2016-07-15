@@ -4,7 +4,7 @@ This repository contains the files necessary to implement the Simple Congestion 
 
 # Installation
 
-To incoroporate CoCoA, please copy the following files into the "er-coap" directory within "/Contiki/apps":
+To incorporate CoCoA, please copy the following files into the "er-coap" directory within "/Contiki/apps"
 
 er-coap-transactions.c
 er-coap-transactions.h
